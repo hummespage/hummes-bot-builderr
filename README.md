@@ -35,10 +35,16 @@ npm run preview
 - src/storage: salva no localStorage (MVP)
 - src/components: UI do editor (árvore + editor + preview)
 
-## Próximos passos (quando vocês quiserem)
-- trocar localStorage por Supabase/Postgres
-- adicionar publish e runtime (WhatsApp Cloud API)
-- adicionar "fallback IA" quando usuário digitar fora do menu
+## Evolução planejada (Product Roadmap)
+
+Este MVP valida arquitetura e experiência.
+
+Próxima fase:
+
+- Persistência real (Supabase / PostgreSQL)
+- Runtime + publicação via WhatsApp Cloud API
+- Fallback com IA para mensagens fora do fluxo
+- Sistema multi-tenant (SaaS)
 
 ## Deploy na Vercel (demo pública)
 1) Suba este repositório no GitHub
