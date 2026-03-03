@@ -1,4 +1,6 @@
 # BotSuite Bots MVP (templates + editor)
+Early-stage SaaS MVP for a visual WhatsApp bot builder.
+Focus: architecture validation, UX and conversational flow modeling.
 
 ![Preview do Bot Builder](./bot-funcionando.gif)
 
