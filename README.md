@@ -1,6 +1,6 @@
 # BotSuite Bots MVP (templates + editor)
 
-![Preview do Bot Builder](./bot funcionando.gif)
+![Preview do Bot Builder](./bot-funcionando.gif)
 
 Um MVP simples (React + Vite + TypeScript) para:
 - escolher um template de bot
